@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">KafeteriaCoffeina</string>
+
+
+    <string-array name="options">
+        <item>Napoje</item>
+        <item>Przekąski</item>
+        <item>Kafeterie</item>
+    </string-array>
+
+    <string-array name="drinks">
+        <item>Latte</item>
+        <item>Cappuccino</item>
+        <item>Espresso</item>
+    </string-array>
+
 </resources>
